@@ -1,0 +1,13 @@
+/* Home.css */
+.jumbotron {
+    text-align: center;
+    background-color: transparent;
+    padding: 100px 20px;
+    transition: opacity 0.5s, transform 0.5s;
+}
+
+.jumbotron h1,
+.jumbotron p,
+.jumbotron .btn {
+    transition: opacity 0.5s, transform 0.5s;
+}

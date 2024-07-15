@@ -1,0 +1,25 @@
+/* Navbar.css */
+.search-container {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.search-input {
+    border: none;
+    outline: none;
+    padding: 0;
+    transition: border 0.3s ease;
+}
+
+.search-btn {
+    background: none;
+    border: none;
+    padding: 0;
+    margin: 0;
+    cursor: pointer;
+}
+
+.search-btn i {
+    font-size: 1.2rem;
+}

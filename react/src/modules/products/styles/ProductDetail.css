@@ -1,0 +1,21 @@
+.container {
+    background-color: #f8f9fa; /* Arka plan rengini ayarlayın */
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.form-group {
+    margin-bottom: 1.5rem;
+}
+
+.btn-primary {
+    margin-top: 1rem;
+}
+
+.card {
+    border: 1px solid #dee2e6;
+    border-radius: 8px;
+    padding: 1rem;
+    background-color: #ffffff;
+    margin-bottom: 1.5rem;
+}
